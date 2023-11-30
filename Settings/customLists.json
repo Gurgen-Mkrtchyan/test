@@ -20,5 +20,16 @@
         "id": 4,
         "creationTimeUnixTimeInMs": 1701352272004,
         "modificationTimeUnixTimeInMs": 1701352272004
+    },
+    {
+        "entityIdentifier": "zxc",
+        "category": "dsa",
+        "forDBMigration": false,
+        "environments": [
+            "*"
+        ],
+        "id": 4,
+        "creationTimeUnixTimeInMs": 1701352272004,
+        "modificationTimeUnixTimeInMs": 1701352272004
     }
 ]
